@@ -10,9 +10,9 @@ client = OpenAI()
 
 
 
-bot_image = Image.open('/Users/mehdihm/Desktop/Dot 2024/edustar/streamlit/.streamlit/sparkling.png')
-bot_image1 = Image.open('/Users/mehdihm/Desktop/Dot 2024/edustar/streamlit/.streamlit/sparkling.png')
-user_image = Image.open('/Users/mehdihm/Desktop/Dot 2024/edustar/streamlit/.streamlit/woman.png')
+bot_image = Image.open('/Users/mehdihm/Desktop/Dot 2024/edustar/Edustar_back_end/streamlit/img/sparkling.png')
+bot_image1 = Image.open('/Users/mehdihm/Desktop/Dot 2024/edustar/Edustar_back_end/streamlit/img/sparkling.png')
+user_image = Image.open('/Users/mehdihm/Desktop/Dot 2024/edustar/Edustar_back_end/streamlit/img/woman.png')
 # st.image(image, caption='Sunrise by the mountains')
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns([7, 6, 5, 4, 3, 2, 1])  # Adjust column width ratios as needed
